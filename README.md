@@ -7,7 +7,7 @@
 
 2: Developed token-based authentication (registration, login, logout) features using React Router v4 and JWT
 
-3: Constructed features including create and browse posts and search nearby posts on a visualized map using Ant Design, GeoLocation API and Google Map API B
+3: Constructed features including create and browse posts and search nearby posts on a visualized map using Ant Design, GeoLocation API and Google Map API
 
 ### Backend
 1: Implemented a scalable web service in Go to handle posts and deployed to Google Cloud (GKE) for better scaling
